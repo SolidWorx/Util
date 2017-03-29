@@ -9,11 +9,10 @@ A collection of utility classes for everyday use
 - [Installation](#installation)
     - [Composer](#composer)
 - [Usage](#usage)
-    - [ArrayUtil] (#array-util)
+    - [ArrayUtil](#arrayUtil)
 - [Testing](#testing)
 - [Contributing](#contributing)
 - [Licence](#licence)
-
 
 ## Requirements
 
