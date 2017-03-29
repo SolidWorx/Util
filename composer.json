@@ -1,0 +1,38 @@
+{
+    "name": "solidworx/util",
+    "description": "A collection of utility classes for everyday use",
+    "type": "library",
+    "license": "MIT",
+    "keywords" : [
+        "util",
+        "utility"
+    ],
+    "authors": [
+        {
+            "name": "Pierre du Plessis",
+            "email": "pdples@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SolidWorx\\Util\\": "./src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SolidWorx\\Util\\Tests\\": "./tests"
+        }
+    },
+    "require": {
+        "php": ">=7.1.0",
+        "symfony/property-access": "^2.7|^3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
