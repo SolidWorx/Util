@@ -40,7 +40,7 @@ class ArrayUtil
             }) : $result;
         };
 
-        if (is_array($array)) {
+        if (is_array($array) && 0 < count($array)) {
             reset($array);
 
             if (is_array($array[key($array)])) {
