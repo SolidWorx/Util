@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/SolidWorx/Util.svg)](https://travis-ci.org/SolidWorx/Util)
 
+**DEPRECATED** This package is not maintained anymore. Use [solidworx/lodash-php](https://github.com/SolidWorx/lodash-php) instead
+
 A collection of utility classes for everyday use
 
 # Table of Contents
